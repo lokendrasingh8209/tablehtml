@@ -1,0 +1,19 @@
+.table {
+    background-color: beige;
+    margin: 50px;
+    padding: 20px;
+    border: 1px solid rgb(59, 48, 214);
+    height: 30px;
+    outline: 8px groove yellow;
+    color: slateblue
+}
+
+.heading {
+    text-align: center;
+    color: darkblue;
+    text-decoration-line: overline underline;
+    text-decoration-color: rgb(186, 212, 12);
+    text-decoration-style: wavy;
+
+
+}
